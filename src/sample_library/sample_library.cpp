@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <miniature_carnival/sample_library.hpp>
 
 int factorial(int input) noexcept
 {
